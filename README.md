@@ -51,14 +51,6 @@ When you run the program, it works like this:
     You type: "This was a terrible experience"
     Program tells you: "Predicted sentiment: negative"
 
-## What You Can Learn From This
-
-This project helps you understand:
-1. How to prepare text for a computer to understand it
-2. How computers can learn from examples
-3. How to make predictions using what the computer learned
-4. How to create a simple program that users can interact with
-
 ## Room for Improvement
 
 This is a basic version meant for learning. If you want to make it better, you could:
