@@ -4,7 +4,7 @@ This is a beginner-friendly program that can tell whether a piece of text is pos
 
 ## What Does This Program Do?
 
-This program reads text and decides if the message is positive or negative. Think of it like teaching a computer to understand emotions in text, similar to how we understand emoji meanings! 
+This program reads text and decides if the message is positive or negative.
 
 The program uses three main parts:
 1. A tool to convert words into numbers that the computer can understand
